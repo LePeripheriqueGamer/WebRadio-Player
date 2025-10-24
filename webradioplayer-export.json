@@ -1,0 +1,157 @@
+{
+  "radios": [
+    {
+      "id": "id-g8fbtqt",
+      "name": "Radio Exterior de España",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8",
+      "logo": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/300674227_504152518376971_7642127188352100124_n.png?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-DW7666jDc4Q7kNvwHak7Av&_nc_oc=Adm5Ess8wJtZCmSO8xSo4mHmHBqeMnJXnY83ilIdhlbY_sXALHPujANgSHGoNanhqaz55S01RJA6a-Qvnd_guLnX&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=N_mfCgIHf1nmStIvWlqMWg&oh=00_Afc-Rj3YwWOc3FgMbEn8VEMEye6Uk1A9jmQpgI-Vrjc1ow&oe=68FFD4DB",
+      "slogan": "La voz de España en los cinco continentes"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "Radio 5 València",
+      "url": "https://f131.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3?cid=01GEP53FAF08XXF9WHNDFYA8SJ&sid=34Sih5KqjryJmfSM4ZN5J7BVUiM&token=P8JV1MxZWq8_nTrbgrkn7B2FyU8KzRPiMvnotxzeJ6Q&tvf=5istmvspcRhmMTMxLnJuZGZuay5jb20",
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/936/rne-radio-5-comunidad-valenciana.3068b4c2.png",
+      "slogan": "En Radio 5 cabemos todos"
+    },
+    {
+      "id": "id-q3fz7p9",
+      "name": "France Inter",
+      "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/1024px-France_Inter_logo_2021.svg.png",
+      "slogan": "Vous êtes bien sur France Inter"
+    },
+    {
+      "id": "id-q3fz7p9",
+      "name": "RTL",
+      "url": "https://streamer-01.rtl.fr/rtl-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
+      "logo": "https://play-lh.googleusercontent.com/j9AJ5a4JNcmZZz5QJSxUPys0WflUXTlPOUH9X6N9Z26MxhsZWMA_GxiHoDuvQ0sVZLE",
+      "slogan": "On a tellement de choses à se dire"
+    },
+    {
+      "id": "id-g8fbtqt",
+      "name": "RMC",
+      "url": "https://go.2stream.net/rmcnat",
+      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k7rcILtB71q3kwlCwX14_jfamwiA4_U74MX8PZ6-sC7Rk=s900-c-k-c0x00ffffff-no-rj",
+      "slogan": "Info, talk, sport"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "BFM Business",
+      "url": "http://audio.bfmtv.com/bfmbusiness_128.mp3",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/BFMBUSINESS-2023.svg/1200px-BFMBUSINESS-2023.svg.png",
+      "slogan": "Premiers sur l'éco"
+    },
+    {
+      "id": "id-q3fz7p9",
+      "name": "BFM Radio",
+      "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_BFM_Radio.svg/1200px-Logo_BFM_Radio.svg.png",
+      "slogan": "Première sur l'info"
+    },
+    {
+      "id": "id-q3fz7p9",
+      "name": "Radio Nacional",
+      "url": "https://dispatcher.rndfnk.com/crtve/rne1/val/aac/low",
+      "logo": "https://cdn-profiles.tunein.com/s9752/images/logog.png?t=153858",
+      "slogan": "Somos Radio Nacional"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "RDP Internacional",
+      "url": "https://radioip.rtp.pt/liveradio/rdpint80a/playlist.m3u8",
+      "logo": "https://www.radioguide.fm/uploads/images/radiostation/RDP2.jpg",
+      "slogan": "Sente Portugal"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "Radio France Internationale",
+      "url": "http://live-reflector.ice.infomaniak.ch/rfimonde-96k.mp3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png",
+      "slogan": "Les voix du monde"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "À Punt Ràdio",
+      "url": "https://bcovlive-a.akamaihd.net/0841326767184ef7acc0489071ec64da/eu-central-1/6057955885001/playlist_dvr.m3u8",
+      "logo": "https://www.radio.fr/300/apunt.jpeg?version=",
+      "slogan": "De tu a tu"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "Antena 1",
+      "url": "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
+      "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/91-253119141305.png?v=3&w=860",
+      "slogan": "Liga Portugal"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "Antena 2",
+      "url": "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8",
+      "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/92-403019141305.png",
+      "slogan": "A arte que toca"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "Antena 3",
+      "url": "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8",
+      "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1-143718101410.png",
+      "slogan": "Mais música nova portuguesa"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "franceinfo:",
+      "url": "https://icecast.radiofrance.fr/franceinfo-hifi.aac",
+      "logo": "https://medias.france.tv/9_tRJAGueNDbtGQpKr4qI77j2lA/1800x0/filters:quality(85):format(webp)/5/u/b/phpp1cbu5.jpg",
+      "slogan": "Deux points ouvrez l'info"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "BBC World Service",
+      "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/1200px-BBC_World_Service_2022_%28Boxed%29.svg.png",
+      "slogan": "The World's Radio Station"
+    },
+    {
+      "id": "id-y9tt1e8",
+      "name": "J1 Radio",
+      "url": "https://jenny.torontocast.com:2000/stream/J1HITS",
+      "logo": "https://pbs.twimg.com/profile_images/1203865528042950656/iaT-C3bx_400x400.png",
+      "slogan": "We love this music, we love Japan"
+    },
+    {
+      "id": "id-xetxw4y",
+      "name": "KBS World Radio",
+      "url": "https://worldradio.gscdn.kbs.co.kr/worldradio_192_4.m3u8?Expires=1761398523&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZHJhZGlvLmdzY2RuLmticy5jby5rci8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzYxMzk4NTIzfX19XX0_&Signature=f9ztpaxgcQ4O1UA6E~f-HbEA2j8xp8KvVwSOwRhjTDHkxCWGmJKjLuCrq-bKgL6ORoyrVaRX3kXxq~jYUnWMPP7O~zqMkmTYHlVItqgOpSEbMawSTbXaavVWqmdawsyZuqTW9BeBXoeQBzpE6KWKfaZUz3f20hZUlCJ9ZwL6P1Vz7LyNJuOa9KPvZ2gvWFiExktJ0qUG9cTh3k4HXT12T74TzpIeCv2KbYLLJq3OVGF5mztND71BGfJgZSytjiK6MHDsebMNitmrQQ9d47L~okkkQXbkISSQAXo-LD2PaX~sECMYrvGH53AB3MQNXW~fnLjSdPpNn-mnt4VZ2mt-aw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA",
+      "logo": "https://world.kbs.co.kr/service/common/images/kwr_profile_2021.jpg",
+      "slogan": "The Voice of Korea"
+    },
+    {
+      "id": "id-qpihz9e",
+      "name": "Nostalgie",
+      "url": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=fluxradios",
+      "logo": "https://static.mytuner.mobi/media/tvos_radios/610/radio-nostalgie.e87897d3.png",
+      "slogan": "Les plus grands tubes !"
+    },
+    {
+      "id": "id-xzu64gr",
+      "name": "Asia DREAM Radio",
+      "url": "https://quincy.torontocast.com:2020/;",
+      "logo": "https://www.radio.fr/300/asiadream.png?version=",
+      "slogan": "The hearth of J-Pop music"
+    },
+    {
+      "id": "id-4uf29kj",
+      "name": "RTS Première",
+      "url": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128",
+      "logo": "https://img.rts.ch/articles/2024/image/er1iqy-28609817.image?w=1200&h=630",
+      "slogan": "La radio de référence en Suisse romande"
+    }
+  ],
+  "active": {
+    "type": "radio",
+    "index": 18
+  },
+  "sleepTimer": null,
+  "volume": 0.4
+}
